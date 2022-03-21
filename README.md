@@ -5,7 +5,7 @@ Favorite Languages: ✨Javasript✨ and ✨Python✨
 
 
 
-https://img.shields.io/badge/is%20cool-yes-6be882
+<div align="center"><img src="https://img.shields.io/badge/is%20cool-yes-6be882"/></div>
 
 <!--
 **ICSandy/ICSandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
