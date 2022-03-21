@@ -1,8 +1,16 @@
 ### Hi there 👋 I'm Andy
 ## Welcome to my Github Page :D
 
-Favorite Languages: ✨Javasript✨ and ✨Python✨
+Favorite Languages: ✨Javasript✨ and ✨Python✨ <br>
 I'm more of an art guy than a code guy, but here I am either way!
+
+<p align="center">
+  Wordle 275 3/6 <br>
+  <span>⬜🟩🟩⬜🟨</span> <br>
+  <span>🟩🟩🟩🟨⬜</span> <br>
+  <span>🟩🟩🟩🟩🟩</span> <br>
+</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/shorts/zoZe6p3t4WI">
