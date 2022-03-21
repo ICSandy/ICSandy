@@ -4,6 +4,7 @@
 Favorite Languages: ✨Javasript✨ and ✨Python✨ <br>
 I'm more of an art guy than a code guy, but here I am either way!
 
+
 <p align="center">
   <img src="https://andys-cool-widgets.glitch.me/wordle" width="200px">
   <br>
@@ -15,3 +16,10 @@ I'm more of an art guy than a code guy, but here I am either way!
 <br>
 
 <div align="center"><img src="https://img.shields.io/badge/is%20cool-yes-6be882"/></div>
+
+
+## todo
+- add pie chart widget
+- fix no emojis problem for wordle display
+- make twitter widget
+- add glitch project so others can host their own widgets
