@@ -3,7 +3,13 @@
 
 Favorite Languages: ✨Javasript✨ and ✨Python✨
 
+<p align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img src="assets/kirby-headphones.gif" width="200px">
+  </a>
+</p>
 
+<br>
 
 <div align="center"><img src="https://img.shields.io/badge/is%20cool-yes-6be882"/></div>
 
