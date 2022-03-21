@@ -13,7 +13,7 @@ I'm more of an art guy than a code guy, but here I am either way!
 
 
 <p align="center">
-  <a href="https://www.youtube.com/shorts/zoZe6p3t4WI">
+  <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
     <img src="assets/kirby-headphones-transparent.gif" width="200px">
   </a>
 </p>
