@@ -15,11 +15,20 @@ I'm more of an art guy than a code guy, but here I am either way!
 
 <br>
 
+
+
 <div align="center"><img src="https://img.shields.io/badge/is%20cool-yes-6be882"/></div>
 
+```mermaid
+graph TD
+    A(yes or no) -->|Yes| B(okay)
+    B --> A
+    A -->|No| B(okay)
+```
 
 ## todo
 - add pie chart widget
 - fix no emojis problem for wordle display
 - make twitter widget
 - add glitch project so others can host their own widgets
+
