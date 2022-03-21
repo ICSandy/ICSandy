@@ -5,16 +5,6 @@ Favorite Languages: ✨Javasript✨ and ✨Python✨ <br>
 I'm more of an art guy than a code guy, but here I am either way!
 
 <p align="center">
-  Wordle 275 3/6 <br>
-  <span>⬜🟩🟩⬜🟨</span> <br>
-  <span>🟩🟩🟩🟨⬜</span> <br>
-  <span>🟩🟩🟩🟩🟩</span> <br>
-</p>
-
-
-
-
-<p align="center">
   <img src="https://andys-cool-widgets.glitch.me/wordle" width="200px">
   <br>
   <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
