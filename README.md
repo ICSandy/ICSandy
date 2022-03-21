@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Andy
+## Welcome to my Github Page :D
+
+Favorite Languages: ✨Javasript✨ and ✨Python✨
+
+
+
+https://img.shields.io/badge/is%20cool-yes-6be882
 
 <!--
 **ICSandy/ICSandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
