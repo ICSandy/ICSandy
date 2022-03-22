@@ -17,8 +17,6 @@ I'm more of an art guy than a code guy, but here I am either way!
   -->
   <img src="https://andys-cool-widgets.glitch.me/wordlesvg" width="250px" height="300px">
   <br>
-  <img src="https://andys-cool-widgets.glitch.me/wordle" width="200px">
-  <br>
   <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
     <img src="assets/kirby-headphones-transparent.gif" width="200px">
   </a>
