@@ -6,6 +6,9 @@ I'm more of an art guy than a code guy, but here I am either way!
 
 
 <p align="center">
+  
+  <img src="https://andys-cool-widgets.glitch.me/todayis" width="200px">
+  <br>
   <img src="https://andys-cool-widgets.glitch.me/wordle" width="200px">
   <br>
   <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
