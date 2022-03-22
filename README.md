@@ -6,8 +6,6 @@ I'm more of an art guy than a code guy, but here I am either way!
 
 
 <p align="center">
-  
-  <img src="https://andys-cool-widgets.glitch.me/todayis" width="200px">
   <br>
   <img src="https://andys-cool-widgets.glitch.me/wordle" width="200px">
   <br>
@@ -28,6 +26,8 @@ graph TD
     B --> A
     A -->|No| B(okay)
 ```
+
+<img src="https://andys-cool-widgets.glitch.me/todayis" width="100%" height="400px">
 
 ## todo
 - add pie chart widget
