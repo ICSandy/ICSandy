@@ -15,7 +15,7 @@ I'm more of an art guy than a code guy, but here I am either way!
   when i set it to half the width (250px) it works fine and displays the proper full width no fluff
   not sure why, and 50% width doesn't work, but 25% kind of does... it has a smidge extra sliver of padding. idk, i will fix later.
   -->
-  <img src="https://andys-cool-widgets.glitch.me/wordlesvg" width="250px">
+  <img src="https://andys-cool-widgets.glitch.me/wordlesvg">
   <br>
   <img src="https://andys-cool-widgets.glitch.me/wordle" width="200px">
   <br>
