@@ -7,9 +7,8 @@ I'm more of an art guy than a code guy, but here I am either way!
 
 <p align="center">
   
-  <img src="https://andys-cool-widgets.glitch.me/battery" width="25%">
+  <img src="https://andys-cool-widgets.glitch.me/battery" height="200px">
   
-  <br>
   
   <!---
   for this wordle svg the width is 500px, but there is extra width when it is displayed in markdown
@@ -18,7 +17,7 @@ I'm more of an art guy than a code guy, but here I am either way!
 
   The SVG generate from the server must use a view box, that fixes the above problems. Now I can use width and height to fix in the markdown as i please
   -->
-  <img src="https://andys-cool-widgets.glitch.me/wordlesvg" width="15%">
+  <img src="https://andys-cool-widgets.glitch.me/wordlesvg" height="200px">
   <br>
   <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
     <img src="assets/kirby-headphones-transparent.gif" width="200px">
