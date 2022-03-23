@@ -7,6 +7,10 @@ I'm more of an art guy than a code guy, but here I am either way!
 
 
 <p align="center">
+  <img src="https://andys-cool-widgets.glitch.me/ssr"  width="50%">
+  <br>
+  
+
   
   <img src="https://andys-cool-widgets.glitch.me/battery" height="200px">
   
