@@ -18,7 +18,9 @@ I'm more of an art guy than a code guy, but here I am either way!
 
   The SVG generate from the server must use a view box, that fixes the above problems. Now I can use width and height to fix in the markdown as i please
   -->
-  <img src="https://andys-cool-widgets.glitch.me/wordlesvg" height="200px">
+  <a href="https://www.nytimes.com/games/wordle/index.html" target="_blank" rel="noreferrer noopener">
+    <img src="https://andys-cool-widgets.glitch.me/wordlesvg" height="200px">
+  </a>
   <br>
   <img src="https://andys-cool-widgets.glitch.me/todayis" height="200px">
   <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
