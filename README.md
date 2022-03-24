@@ -6,14 +6,18 @@ Favorite Languages: ✨Javasript✨ and ✨Python✨ <br>
 I'm more of an art guy than a code guy, but here I am either way!
 
 
-<p align="center">
+
+<div align="center">
   <img src="https://andys-cool-widgets.glitch.me/ssr"  width="50%">
   <br>
   
 
   
-  <img src="https://andys-cool-widgets.glitch.me/battery" height="200px">
-  
+
+  <div style="display: flex; justify-content: center;">
+    <img src="https://andys-cool-widgets.glitch.me/battery" style="width:25%;" />
+    <img src="https://andys-cool-widgets.glitch.me/wordlesvg" style="width:25%;" />
+  </div>
   
   <!---
   for this wordle svg the width is 500px, but there is extra width when it is displayed in markdown
@@ -22,16 +26,16 @@ I'm more of an art guy than a code guy, but here I am either way!
 
   The SVG generate from the server must use a view box, that fixes the above problems. Now I can use width and height to fix in the markdown as i please
   -->
-  <a href="https://www.nytimes.com/games/wordle/index.html" target="_blank" rel="noreferrer noopener">
-    <img src="https://andys-cool-widgets.glitch.me/wordlesvg" height="200px">
-  </a>
-  <br>
-  <img src="https://andys-cool-widgets.glitch.me/todayis" height="200px">
-  <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
-    <img src="assets/kirby-headphones-transparent.gif" height="200px">
-  </a>
+
+  <div style="display: flex; justify-content: center;">
+    <img src="https://andys-cool-widgets.glitch.me/todayis" style="width:75%;">
+    <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
+      <img src="assets/kirby-headphones-transparent.gif" style="width:25%;"">
+    </a>
+  </div>
+
   
-</p>
+</div>
 
 <br>
 
