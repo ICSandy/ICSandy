@@ -28,9 +28,9 @@ I'm more of an art guy than a code guy, but here I am either way!
   -->
 
   <div style="display: flex; justify-content: center;">
-    <img src="https://andys-cool-widgets.glitch.me/todayis" style="width:75%;">
+    <img src="https://andys-cool-widgets.glitch.me/todayis" style="width:74%;">
     <a href="https://www.youtube.com/shorts/zoZe6p3t4WI" target="_blank" rel="noreferrer noopener">
-      <img src="assets/kirby-headphones-transparent.gif" style="width:25%;"">
+      <img src="assets/kirby-headphones-transparent.gif" style="width:25%;">
     </a>
   </div>
 
